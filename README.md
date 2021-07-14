@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on rookie projects and learning opportunities with other developers.<br>
 - 📫 You can reach me via facebook or instagram (@roghavarma).<br>
 
-<h2>Thank you for visiting my page and have a good day</h2>
+<h4>Thank you for visiting my page and have a good day</h4>
 
 <!---
 roghavarma/roghavarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
