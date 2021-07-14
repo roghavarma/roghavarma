@@ -1,4 +1,4 @@
-- 👋 Hi, my name is @roghavarma. i am an aspiring software engineer.
+- 👋 Hi, my name is @roghavarma. I am an aspiring software engineer.
 - 👀 I’m interested in creating many independent projects for the world to use and benefit.
 - 🌱 I’m currently learning vue.js and laravel lumen.
 - 💞️ I’m looking to collaborate on rookie projects and learning opportunities with other developers.
